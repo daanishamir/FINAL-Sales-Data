@@ -3,11 +3,11 @@
   "agents": [
     {
       "name": "Amir",
-      "total_sales": 26.0,
+      "total_sales": 27.0,
       "avg_sales": 1.79,
       "transfers": 43.0,
-      "pending": 4.0,
-      "declined": "13",
+      "pending": 2.0,
+      "declined": "14",
       "leave": 0.0,
       "days_on_zero": 1,
       "daily_sales": [
@@ -218,10 +218,10 @@
     },
     {
       "name": "Asad Imran",
-      "total_sales": 12.0,
+      "total_sales": 13.0,
       "avg_sales": 1.0,
       "transfers": 20.0,
-      "pending": 1.0,
+      "pending": 0.0,
       "declined": "7",
       "leave": 4.0,
       "days_on_zero": 4,
