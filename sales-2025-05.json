@@ -3,7 +3,7 @@
   "agents": [
     {
       "name": "Amir",
-      "total_sales": 25.0,
+      "total_sales": 26.0,
       "avg_sales": 1.79,
       "transfers": 43.0,
       "pending": 4.0,
