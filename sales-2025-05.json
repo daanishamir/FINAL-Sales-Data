@@ -89,11 +89,11 @@
     },
     {
       "name": "Ayesha",
-      "total_sales": 18.0,
+      "total_sales": 19.0,
       "avg_sales": 1.36,
       "transfers": 30.0,
       "pending": 1.0,
-      "declined": "11",
+      "declined": "10",
       "leave": 2.0,
       "days_on_zero": 6,
       "daily_sales": [
@@ -519,10 +519,10 @@
     },
     {
       "name": "Zohaib Khan",
-      "total_sales": 15.0,
+      "total_sales": 16.0,
       "avg_sales": 1.17,
       "transfers": 28.0,
-      "pending": 2.0,
+      "pending": 1.0,
       "declined": "11",
       "leave": 0.0,
       "days_on_zero": 3,
