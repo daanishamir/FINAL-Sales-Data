@@ -522,8 +522,8 @@
       "total_sales": 16.0,
       "avg_sales": 1.17,
       "transfers": 28.0,
-      "pending": 1.0,
-      "declined": "11",
+      "pending": 0.0,
+      "declined": "12",
       "leave": 0.0,
       "days_on_zero": 3,
       "daily_sales": [
