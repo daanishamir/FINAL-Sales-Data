@@ -3,11 +3,11 @@
   "agents": [
     {
       "name": "Amir",
-      "total_sales": 27.0,
+      "total_sales": 28.0,
       "avg_sales": 1.79,
       "transfers": 43.0,
-      "pending": 2.0,
-      "declined": "14",
+      "pending": 0.0,
+      "declined": "15",
       "leave": 0.0,
       "days_on_zero": 1,
       "daily_sales": [
@@ -49,8 +49,8 @@
       "total_sales": 5.0,
       "avg_sales": 0.57,
       "transfers": 13.0,
-      "pending": 1.0,
-      "declined": "7",
+      "pending": 0.0,
+      "declined": "8",
       "leave": 0.0,
       "days_on_zero": 12,
       "daily_sales": [
@@ -89,10 +89,10 @@
     },
     {
       "name": "Ayesha",
-      "total_sales": 19.0,
+      "total_sales": 20.0,
       "avg_sales": 1.36,
       "transfers": 30.0,
-      "pending": 1.0,
+      "pending": 0.0,
       "declined": "10",
       "leave": 2.0,
       "days_on_zero": 6,
@@ -264,8 +264,8 @@
       "total_sales": 10.0,
       "avg_sales": 0.71,
       "transfers": 17.0,
-      "pending": 2.0,
-      "declined": "5",
+      "pending": 0.0,
+      "declined": "6",
       "leave": 0.0,
       "days_on_zero": 12,
       "daily_sales": [
@@ -347,7 +347,7 @@
     },
     {
       "name": "Mian Safeer",
-      "total_sales": 9.0,
+      "total_sales": 10.0,
       "avg_sales": 0.75,
       "transfers": 18.0,
       "pending": 0.0,
@@ -436,8 +436,8 @@
       "total_sales": 4.0,
       "avg_sales": 0.57,
       "transfers": 8.0,
-      "pending": 2.0,
-      "declined": "2",
+      "pending": 0.0,
+      "declined": "4",
       "leave": 3.0,
       "days_on_zero": 7,
       "daily_sales": [
@@ -565,8 +565,8 @@
       "total_sales": 10.0,
       "avg_sales": 0.71,
       "transfers": 17.0,
-      "pending": 2.0,
-      "declined": "5",
+      "pending": 0.0,
+      "declined": "7",
       "leave": 0.0,
       "days_on_zero": 11,
       "daily_sales": [
