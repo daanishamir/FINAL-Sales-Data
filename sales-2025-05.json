@@ -308,7 +308,7 @@
       "avg_sales": 0.87,
       "transfers": 19.0,
       "pending": 0.0,
-      "declined": "7",
+      "declined": "8",
       "leave": 1.0,
       "days_on_zero": 6,
       "daily_sales": [
@@ -392,7 +392,7 @@
       "name": "Sidra Pervaiz",
       "total_sales": 12.0,
       "avg_sales": 0.91,
-      "transfers": 21.0,
+      "transfers": 22.0,
       "pending": 0.0,
       "declined": "10",
       "leave": 1.0,
@@ -480,7 +480,7 @@
       "avg_sales": 0.83,
       "transfers": 20.0,
       "pending": 0.0,
-      "declined": "8",
+      "declined": "9",
       "leave": 0.0,
       "days_on_zero": 9,
       "daily_sales": [
